@@ -105,7 +105,6 @@ main{
 } 
 .about-info-container{
     display: flex;
-
     justify-content: space-around;
 }
 .about-info{
